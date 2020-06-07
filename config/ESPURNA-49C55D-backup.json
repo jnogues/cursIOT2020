@@ -1,0 +1,22 @@
+{
+"app": "ESPURNA",
+"version": "1.15.0-dev",
+"backup": "1",
+"timestamp": "2020-06-07 09:50:31",
+"hostname": "ESPURNA-49C55D",
+"adminPass": "Espurna2020",
+"ssid0": "viscalaterra",
+"pass0": "pitufito*",
+"mqttEnabled": "1",
+"mqttServer": "vps249990.ovh.net",
+"mqttTopic": "/espurna/{hostname}",
+"relayBoot0": "2",
+"relayBoot1": "2",
+"relayBoot2": "2",
+"tmpCorrection": "0",
+"mqttUseJson": "1",
+"mqttRetain": "0",
+"alexaName": "azul",
+"boardName": "NODEMCU_LOLIN",
+"relayBootMask": "0b0"
+}
